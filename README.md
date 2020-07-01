@@ -1,6 +1,6 @@
 # SQLAlchemy - Planning for Vacation!
 
-    ![station-histogram](Images/Hawaii_Image.png)
+    ![Hawaii Image](Images/Hawaii_Image.png)
 
 In this project I was challenged with planning for a ficticious holiday vacation in Honolulu, Hawaii! The requirement was to do climate analysis on the area. The following outlines what was done.
 
@@ -117,5 +117,5 @@ Designed a Flask API based on the queries that you have just developed.
 
 * Used Pandas to plot an area plot (`stacked=False`) for the daily normals.
 
-  ![daily-normals](Images/DailyNNormals.png)
+  ![daily-normals](Images/Daily_Normals.png)
 
