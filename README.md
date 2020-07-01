@@ -1,6 +1,6 @@
 # SQLAlchemy - Planning for Vacation!
 
-![surfs-up.png](Images/surfs-up.png)
+![surfs-up.png](Images/Hawaii_Image.png)
 
 In this project I was challenged with planning for a ficticious holiday vacation in Honolulu, Hawaii! The requirement was to do climate analysis on the area. The following outlines what was done.
 
