@@ -1,6 +1,6 @@
 # SQLAlchemy - Planning for Vacation!
 
-    ![Hawaii Image](Images/Hawaii_Image.png)
+![surfs-up.png](Images/surfs-up.png)
 
 In this project I was challenged with planning for a ficticious holiday vacation in Honolulu, Hawaii! The requirement was to do climate analysis on the area. The following outlines what was done.
 
@@ -16,7 +16,7 @@ Python and SQLAlchemy was used to do basic climate analysis and data exploration
 
 ### Precipitation Analysis
 
-* Designed a query to retrieve the last 12 months of precipitation data from the provided data set.
+* Designed a query to retrieve 12 months of precipitation data from the provided data set.
 
 * Selected only the `date` and `prcp` values.
 
@@ -95,7 +95,7 @@ Designed a Flask API based on the queries that you have just developed.
 
 ### Temperature Analysis
 
-* Used a `calc_temps` function to calculate the min, avg, and max temperatures for the trip using the matching dates from the most recent previous year (i.e., use "2017-01-01" if trip start date was "2018-01-01").
+* Used a `calc_temps` function to calculate the min, avg, and max temperatures for the trip using the matching dates from the most recent previous year. 
 
 * Plotted the min, avg, and max temperature from previous query as a bar chart.
 
